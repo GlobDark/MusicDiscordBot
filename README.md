@@ -1,6 +1,6 @@
 # Start
 
-## Start
+## Npm
 
 Use: `npm install discord.js`
 
